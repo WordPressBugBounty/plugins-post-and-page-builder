@@ -52,6 +52,10 @@
                 "role": "Developer"
             }
         ],
-        "description": "The BoldGrid Library for shared code used in official BoldGrid plugins and themes."
+        "description": "The BoldGrid Library for shared code used in official BoldGrid plugins and themes.",
+        "support": {
+            "issues": "https://github.com/BoldGrid/library/issues",
+            "source": "https://github.com/BoldGrid/library/tree/2.13.13"
+        }
     }
 ]

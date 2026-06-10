@@ -30,7 +30,7 @@
 }
 
 .bg-edit-link a:active .fa {
-  background-color: #f8480d;
+  background-color: rgb(248.3139013453, 72.2466367713, 13.1860986547);
 }
 
 .bg-edit-link .fa {
@@ -929,7 +929,7 @@ table th[class*=col-] {
 caption {
   padding-top: 8px;
   padding-bottom: 8px;
-  color: #777777;
+  color: rgb(119.085, 119.085, 119.085);
   text-align: left;
 }
 
@@ -1027,7 +1027,7 @@ th {
 
 .table-hover > tbody > tr > td.active:hover,
 .table-hover > tbody > tr > th.active:hover, .table-hover > tbody > tr.active:hover > td, .table-hover > tbody > tr:hover > .active, .table-hover > tbody > tr.active:hover > th {
-  background-color: #e8e8e8;
+  background-color: rgb(232.25, 232.25, 232.25);
 }
 
 .table > thead > tr > td.success,
@@ -1045,7 +1045,7 @@ th {
 
 .table-hover > tbody > tr > td.success:hover,
 .table-hover > tbody > tr > th.success:hover, .table-hover > tbody > tr.success:hover > td, .table-hover > tbody > tr:hover > .success, .table-hover > tbody > tr.success:hover > th {
-  background-color: #d0e9c6;
+  background-color: rgb(207.8888888889, 232.9166666667, 197.5833333333);
 }
 
 .table > thead > tr > td.info,
@@ -1063,7 +1063,7 @@ th {
 
 .table-hover > tbody > tr > td.info:hover,
 .table-hover > tbody > tr > th.info:hover, .table-hover > tbody > tr.info:hover > td, .table-hover > tbody > tr:hover > .info, .table-hover > tbody > tr.info:hover > th {
-  background-color: #c4e3f3;
+  background-color: rgb(195.9347826087, 227.0217391304, 242.5652173913);
 }
 
 .table > thead > tr > td.warning,
@@ -1081,7 +1081,7 @@ th {
 
 .table-hover > tbody > tr > td.warning:hover,
 .table-hover > tbody > tr > th.warning:hover, .table-hover > tbody > tr.warning:hover > td, .table-hover > tbody > tr:hover > .warning, .table-hover > tbody > tr.warning:hover > th {
-  background-color: #faf2cc;
+  background-color: rgb(249.5322580645, 242.2419354839, 203.9677419355);
 }
 
 .table > thead > tr > td.danger,
@@ -1099,7 +1099,7 @@ th {
 
 .table-hover > tbody > tr > td.danger:hover,
 .table-hover > tbody > tr > th.danger:hover, .table-hover > tbody > tr.danger:hover > td, .table-hover > tbody > tr:hover > .danger, .table-hover > tbody > tr.danger:hover > th {
-  background-color: #ebcccc;
+  background-color: rgb(234.7934782609, 203.7065217391, 203.7065217391);
 }
 
 .table-responsive {
